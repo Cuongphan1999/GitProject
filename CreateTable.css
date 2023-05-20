@@ -1,0 +1,30 @@
+table {
+front-family: arial, sans-serif; 
+/*font-family: "Times New Roman", Times, serif;*/
+border-collapse: collapse;
+/*thu gon duong vien"border-collapse: separate"*/
+width: 100%;
+}
+td, th {
+    border: 1px solid #99081cd5; /*color*/
+    text-align: left; /*center,left,right,justify*/
+    Padding: 8px; /*khoang cach noi dung voi duong vien*/
+}
+tr:nth-child(1) {  /*":nth-child(n)" chọn thành phần thứ "n" trong thành phần cha, gốc tính được tính từ thành phần đầu tiên trở đi*/
+    background-color: #81a826;
+}
+tr:nth-child(2) {
+    background-color: #6522a3;
+}
+tr:nth-child(3) {
+    background-color: #6522a3;
+}
+tr:nth-child(4) {
+    background-color: #6522a3;
+}
+tr:nth-child(5) {
+    background-color: #6522a3;
+}
+tr:nth-child(6) {
+    background-color: #6522a3;
+}
