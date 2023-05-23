@@ -1,0 +1,28 @@
+#form{
+    background-color: rgb(227, 240, 168);
+    style="position: absolute;"
+}
+#title{
+    color: blue;
+    background-color: rgb(154, 228, 233);
+    margin: 10px 10px 50px;
+}
+#abc{
+    width: 590px;
+    height: 25px;
+    position: relative;
+    
+    
+}
+.a{
+    color: rgb(51, 14, 214);
+    text-align: left;
+    padding: 0px 0px 10px;
+}
+#b{
+    color: black;
+    
+}
+.button{
+    padding: 0px 0px 0px 70px;
+}
