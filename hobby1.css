@@ -1,0 +1,29 @@
+body{
+    height: 100vh;
+    background-color: #1ccaca;
+}
+#nen{
+    background-color: aliceblue;
+    padding: 100px 340px
+}
+#title{
+    color: #f7f7f7;
+    background-color: #f75f07;
+    text-align: center;
+    margin: 0px;
+
+}
+#email{
+ padding: 0 20px 0 20px;
+}
+
+#like{
+    margin: 50px;
+    
+}
+.t1{
+    color: #d85307;
+    text-align:left;
+    
+}
+
