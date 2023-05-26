@@ -1,3 +1,5 @@
+cost = "a";
+cost = "b";
 a = prompt("input a: ");
 b = prompt("input b: ");
 if (a%b == 0){
